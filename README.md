@@ -1,3 +1,12 @@
+# About
+
+This is an Express API demo that illustrates the following:
+- How to serve static, vanilla HTML/CSS/JS pages
+- How to implement a simple "fake database" in the API using an array
+- How to retrieve data from the API inside of static pages using fetch requests
+
+**NOTE:** Accessing the static pages will require the `.html` extension to be present. Ex: `http://localhost:3000/users.html`
+
 # Try It Out Now (No Setup)
 
 Fork this repo on Replit to run the app with no setup:
